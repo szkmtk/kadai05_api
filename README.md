@@ -22,3 +22,4 @@ https://szkmtk.github.io/kadai05_api/
 - [tips]
 - [参考記事]
 
+<img width="977" alt="スクリーンショット 2024-03-16 10 49 36" src="https://github.com/szkmtk/kadai05_api/assets/55077084/5b7bc00e-e964-4147-9ded-762325b9f06b">
